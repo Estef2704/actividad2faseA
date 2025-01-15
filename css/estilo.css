@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#agrupar{
+    width: 650px ;
+    margin: 10px;
+    text-align: left;
+}
+/* estilo para la cabecera de la página web*/
+#cabecera
+{
+    background-color: rgb(111, 128, 154);
+    border:1px solid
+    padding 20px;
+}
+/* estilo para el contenido de la página web*/
+#contenido {
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+body{
+    text-align: center;
+}
+#seccion{
+    width: 650px;
+    margin: auto;
+    float: left;
+}
+#pie{
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #999
+}
+article{
+    background: #fffbcc;
+    border: 1px solid #999
+    padding 20px;
+    margin-bottom: 15px;
+}
+article footer {
+    text-align: right;
+}
+time {
+    color: #999;
+}
+figcaption {
+    font-style: italic 14px verdana, sans-serif;
+}
